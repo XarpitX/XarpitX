@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Arpit 👋  
 
-<!--
-**XarpitX/XarpitX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate Computer Science Student | Data Analyst | MERN Stack Developer  
 
-Here are some ideas to get you started:
+I love building full-stack applications, analyzing datasets, and exploring AI/ML to solve real-world problems.  
+.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Python, SQL , Java, JavaScript  
+- **Frameworks & Libraries:** React, Node.js, Express, Flask, FastAPI  
+- **Data Tools:** Pandas, NumPy, Matplotlib, Power BI, PySpark  
+- **Databases:** MongoDB, MySQL  
+- **Other Tools:** Git, GitHub, REST APIs, VS Code  
+
+---
+
+ 
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XarpitX&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XarpitX&layout=compact&theme=radical)  
+
+---
+
+## 📫 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/arpit-tak-bb5055253/)  
+- 🌐 [Portfolio]()  
+- 📧 Email: arpittak02@gmail.com  
+
+---
+
+⭐️ *“Curious mind fueled by coffee, code, and the thrill of creating.”*  
